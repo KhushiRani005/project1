@@ -1,3 +1,3 @@
 project on web delevelopment
 <br>
-HTML CSS JavaScript 
+HTML CSS JavaScript (languages)
